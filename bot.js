@@ -1947,4 +1947,4 @@ client.on('message', message => {
 
 
 
-client.login('NTE3NzQ2MTMzNDY0Nzc2NzA0.DuG31A.1rxYdozbb5RXraTclS9C_--rBnI');
+client.login(process.env.BOT_TOKEN);
